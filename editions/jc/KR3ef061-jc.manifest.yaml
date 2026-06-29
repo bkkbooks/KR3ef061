@@ -1,0 +1,1082 @@
+canonical_identifier: bkk:krp/KR3ef061/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef061/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒百證歌
+  identifiers:
+    krp: KR3ef061
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef061.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef061_001-jc.yaml, hash: 'sha256:f06edd8360d1cb7a906c5a7045a982de2be1ee174200786775cff162453a66cd'}
+  - {seq: 2, filename: KR3ef061_002-jc.yaml, hash: 'sha256:f0ee76d37a30f8a8313387d39652f9f86811691b08a6e34a60806e97e132c111'}
+  - {seq: 3, filename: KR3ef061_003-jc.yaml, hash: 'sha256:db9cb2c0011e93f0777ce41720717e55868ced4ab21e1eb283ac991f320e896b'}
+  - {seq: 4, filename: KR3ef061_004-jc.yaml, hash: 'sha256:45ae9a6fc7b3347bd55ec973959000a1351bc5116e38ff085b34f808acb6d0b2'}
+  - {seq: 5, filename: KR3ef061_005-jc.yaml, hash: 'sha256:f4f03467eb337218762ea3026a2303663cc1db058e9d19951b0026084153a2a9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef061_001-jc.markers.yaml, hash: 'sha256:2accc08a8ca2db0c591b4a0c60a1638dce43b02564d41ebf58d86340c257f886'}
+  - {seq: 2, role: markers, filename: assets/KR3ef061_002-jc.markers.yaml, hash: 'sha256:c4f4dca302ac28bf7a16bf283f06abacb3f5854e062ab600fddaee008e943d8d'}
+  - {seq: 3, role: markers, filename: assets/KR3ef061_003-jc.markers.yaml, hash: 'sha256:e89fb220ae4bacac28e204a473f1b42a5de0a9122ef2ccc3bc81e1a257e9fc73'}
+  - {seq: 4, role: markers, filename: assets/KR3ef061_004-jc.markers.yaml, hash: 'sha256:181ab7dd0327ed59d1c69208ae4ae7ea531cc9f64d754c3cfdafd2386bc99334'}
+  - {seq: 5, role: markers, filename: assets/KR3ef061_005-jc.markers.yaml, hash: 'sha256:f821a25be3f9731b17d9450bc77d31781c5e47485d186e79fec5af0e89b62e0a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 5844
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 1325
+  label: 第一證傷寒脈證總論歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d3
+    span:
+    - body
+    - 1325
+    - 1824
+  label: 第二證傷寒病證總類歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d4
+    span:
+    - body
+    - 1824
+    - 2181
+  label: 第三證表證歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d5
+    span:
+    - body
+    - 2181
+    - 2654
+  label: 第四證里證歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d6
+    span:
+    - body
+    - 2654
+    - 2861
+  label: 第五證表裡寒熱歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d7
+    span:
+    - body
+    - 2861
+    - 3136
+  label: 第六證表裡虛實歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d8
+    span:
+    - body
+    - 3136
+    - 3247
+  label: 第七證急救表裡歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d9
+    span:
+    - body
+    - 3247
+    - 3370
+  label: 第八證無表裡證歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d10
+    span:
+    - body
+    - 3370
+    - 3513
+  label: 第九證表裡水歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d11
+    span:
+    - body
+    - 3513
+    - 3750
+  label: 第十證表裡兩證俱見歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d12
+    span:
+    - body
+    - 3750
+    - 4209
+  label: 第十一證三陰三陽傳入歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d13
+    span:
+    - body
+    - 4209
+    - 4438
+  label: 第十二證陰陽兩感歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d14
+    span:
+    - body
+    - 4438
+    - 4623
+  label: 第十三證陽證陽毒歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d15
+    span:
+    - body
+    - 4623
+    - 5170
+  label: 第十四證陰證陰毒歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d16
+    span:
+    - body
+    - 5170
+    - 5296
+  label: 第十五證太陽陽明合病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d17
+    span:
+    - body
+    - 5296
+    - 5363
+  label: 第十六證太陽少陽合病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d18
+    span:
+    - body
+    - 5363
+    - 5446
+  label: 第十七證三陽合病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d19
+    span:
+    - body
+    - 5446
+    - 5589
+  label: 第十八證太陽少陽並病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d20
+    span:
+    - body
+    - 5589
+    - 5729
+  label: 第十九證陰證似陽歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef061_jc_001-d2d21
+    span:
+    - body
+    - 5729
+    - 5844
+  label: 第二十證陽證似陰歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6515
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 90
+  label: 第二十一證陰盛隔陽歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d3
+    span:
+    - body
+    - 90
+    - 235
+  label: 第二十二證陰陽易歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d4
+    span:
+    - body
+    - 235
+    - 561
+  label: 第二十三證傷寒歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d5
+    span:
+    - body
+    - 561
+    - 802
+  label: 第二十四證中風歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d6
+    span:
+    - body
+    - 802
+    - 1028
+  label: 第二十五證傷寒見風脈中風見寒脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d7
+    span:
+    - body
+    - 1028
+    - 1300
+  label: 第二十六證熱病中暍歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d8
+    span:
+    - body
+    - 1300
+    - 1827
+  label: 第二十七證五種溫歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d9
+    span:
+    - body
+    - 1827
+    - 2291
+  label: 第二十八證三種濕歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d10
+    span:
+    - body
+    - 2291
+    - 2577
+  label: 第二十九證兩種痓歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d11
+    span:
+    - body
+    - 2577
+    - 2906
+  label: 第三十證四證似傷寒歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d12
+    span:
+    - body
+    - 2906
+    - 3516
+  label: 第三十一證可汗不可汗歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d13
+    span:
+    - body
+    - 3516
+    - 4072
+  label: 第三十二證可下不可下歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d14
+    span:
+    - body
+    - 4072
+    - 4312
+  label: 第三十三證可吐不可吐歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d15
+    span:
+    - body
+    - 4312
+    - 4649
+  label: 第三十四證可火不可火歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d16
+    span:
+    - body
+    - 4649
+    - 4963
+  label: 第三十五證可水不可水歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d17
+    span:
+    - body
+    - 4963
+    - 5219
+  label: 第三十六證可灸不可灸歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d18
+    span:
+    - body
+    - 5219
+    - 5584
+  label: 第三十七證可針不可針歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d19
+    span:
+    - body
+    - 5584
+    - 5854
+  label: 第三十八證傷寒可溫歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d20
+    span:
+    - body
+    - 5854
+    - 6149
+  label: 第三十九證發熱歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef061_jc_002-d3d21
+    span:
+    - body
+    - 6149
+    - 6515
+  label: 第四十證潮熱歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 5707
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 218
+  label: 第四十一證往來寒熱歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d3
+    span:
+    - body
+    - 218
+    - 512
+  label: 第四十二證汗之而熱不退歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d4
+    span:
+    - body
+    - 512
+    - 761
+  label: 第四十三證下之而仍發熱歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d5
+    span:
+    - body
+    - 761
+    - 973
+  label: 第四十四證惡寒歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d6
+    span:
+    - body
+    - 973
+    - 1155
+  label: 第四十五證背惡寒歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d7
+    span:
+    - body
+    - 1155
+    - 1674
+  label: 第四十六證厥歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d8
+    span:
+    - body
+    - 1674
+    - 2188
+  label: 第四十七證結胸歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d9
+    span:
+    - body
+    - 2188
+    - 2479
+  label: 第四十八證痞歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d10
+    span:
+    - body
+    - 2479
+    - 2885
+  label: 第四十九證發黃歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d11
+    span:
+    - body
+    - 2885
+    - 3134
+  label: 第五十證發狂歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d12
+    span:
+    - body
+    - 3134
+    - 3343
+  label: 第五十一證發斑歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d13
+    span:
+    - body
+    - 3343
+    - 3563
+  label: 第五十二證發喘歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d14
+    span:
+    - body
+    - 3563
+    - 3944
+  label: 第五十三證發渴歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d15
+    span:
+    - body
+    - 3944
+    - 4135
+  label: 第五十四證吐血歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d16
+    span:
+    - body
+    - 4135
+    - 4466
+  label: 第五十五證衄血歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d17
+    span:
+    - body
+    - 4466
+    - 4647
+  label: 第五十六證吃噫歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d18
+    span:
+    - body
+    - 4647
+    - 4877
+  label: 第五十七證譫語歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d19
+    span:
+    - body
+    - 4877
+    - 5197
+  label: 第五十八證煩躁歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d20
+    span:
+    - body
+    - 5197
+    - 5441
+  label: 第五十九證懊憹歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef061_jc_003-d4d21
+    span:
+    - body
+    - 5441
+    - 5707
+  label: 第六十證怫鬱歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5479
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 287
+  label: 第六十一證驚惕歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d3
+    span:
+    - body
+    - 287
+    - 625
+  label: 第六十二證心悸歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d4
+    span:
+    - body
+    - 625
+    - 867
+  label: 第六十三證冒悶歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d5
+    span:
+    - body
+    - 867
+    - 1173
+  label: 第六十四證乾嘔歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d6
+    span:
+    - body
+    - 1173
+    - 1377
+  label: 第六十五證吐逆歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d7
+    span:
+    - body
+    - 1377
+    - 1572
+  label: 第六十六證霍亂歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d8
+    span:
+    - body
+    - 1572
+    - 1801
+  label: 第六十七證頭疼歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d9
+    span:
+    - body
+    - 1801
+    - 2051
+  label: 第六十八證脅痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d10
+    span:
+    - body
+    - 2051
+    - 2319
+  label: 第六十九證腹痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d11
+    span:
+    - body
+    - 2319
+    - 2522
+  label: 第七十證咽痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d12
+    span:
+    - body
+    - 2522
+    - 2843
+  label: 第七十一證咳嗽歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d13
+    span:
+    - body
+    - 2843
+    - 3036
+  label: 第七十二證遺尿歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d14
+    span:
+    - body
+    - 3036
+    - 3359
+  label: 第七十三證腹滿歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d15
+    span:
+    - body
+    - 3359
+    - 3454
+  label: 第七十四證蛔厥歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d16
+    span:
+    - body
+    - 3454
+    - 3872
+  label: 第七十五證自汗歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d17
+    span:
+    - body
+    - 3872
+    - 4266
+  label: 第七十六證頭汗歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d18
+    span:
+    - body
+    - 4266
+    - 4624
+  label: 第七十七證欲得汗歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d19
+    span:
+    - body
+    - 4624
+    - 4908
+  label: 第七十八證舌上苔歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d20
+    span:
+    - body
+    - 4908
+    - 5206
+  label: 第七十九證下膿血歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef061_jc_004-d5d21
+    span:
+    - body
+    - 5206
+    - 5479
+  label: 第八十證晝夜偏劇歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5276
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 177
+  label: 第八十一證循衣摸空歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d3
+    span:
+    - body
+    - 177
+    - 400
+  label: 第八十二證筋惕肉瞤歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d4
+    span:
+    - body
+    - 400
+    - 608
+  label: 第八十三證口燥咽乾歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d5
+    span:
+    - body
+    - 608
+    - 807
+  label: 第八十四證傷寒似瘧歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d6
+    span:
+    - body
+    - 807
+    - 974
+  label: 第八十五證邪中三焦歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d7
+    span:
+    - body
+    - 974
+    - 1258
+  label: 第八十六證多眠歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d8
+    span:
+    - body
+    - 1258
+    - 1497
+  label: 第八十七證不得眠歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d9
+    span:
+    - body
+    - 1497
+    - 1890
+  label: 第八十八證小便不利歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d10
+    span:
+    - body
+    - 1890
+    - 2268
+  label: 第八十九證小便自利歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d11
+    span:
+    - body
+    - 2268
+    - 2373
+  label: 第九十證大便不利歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d12
+    span:
+    - body
+    - 2373
+    - 2721
+  label: 第九十一證大便下利歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d13
+    span:
+    - body
+    - 2721
+    - 2935
+  label: 第九十二證狐惑證歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d14
+    span:
+    - body
+    - 2935
+    - 3217
+  label: 第九十三證百合歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d15
+    span:
+    - body
+    - 3217
+    - 3628
+  label: 第九十四證辨傷寒疫氣不同歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d16
+    span:
+    - body
+    - 3628
+    - 3971
+  label: 第九十五證婦人傷寒歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d17
+    span:
+    - body
+    - 3971
+    - 4211
+  label: 第九十六證婦人熱入血室歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d18
+    span:
+    - body
+    - 4211
+    - 4421
+  label: 第九十七證傷寒瘥後病歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d19
+    span:
+    - body
+    - 4421
+    - 4631
+  label: 第九十八證傷寒五臟死絕歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d20
+    span:
+    - body
+    - 4631
+    - 5026
+  label: 第九十九證傷寒死脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef061_jc_005-d6d21
+    span:
+    - body
+    - 5026
+    - 5276
+  label: 第一百證傷寒死候歌
+  type: section
+  level: 2
+hash: sha256:b77285eba7412613079d6f3af56af940d6b27fcd0478698bc90f99c10f73feda
