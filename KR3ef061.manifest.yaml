@@ -24,7 +24,7 @@ assets:
   - {seq: 5, filename: KR3ef061_005.yaml, hash: 'sha256:385af91250eeda468cfbd699e4c2ce3290bfca46e01938b9bfd4762cd5a04ca4'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ef061_001.markers.yaml, hash: 'sha256:73c7a7aea12b1bb362ebece72a139c08722fd12070d53066235acc692700cd9c'}
-  - {seq: 2, role: markers, filename: assets/KR3ef061_002.markers.yaml, hash: 'sha256:4c7f303e97e56cf745dbb99c3743bb21ee280d104da59dfc163cdaafac8c290b'}
+  - {seq: 2, role: markers, filename: assets/KR3ef061_002.markers.yaml, hash: 'sha256:28f80f255f8459ffa30bec87dda10097ea9954e37fc85cf03d3244a229803d4e'}
   - {seq: 3, role: markers, filename: assets/KR3ef061_003.markers.yaml, hash: 'sha256:fbbefe63a37fc0f3b90f2542749f836be7bba4cae766287a0779c2ac2ea7d714'}
   - {seq: 4, role: markers, filename: assets/KR3ef061_004.markers.yaml, hash: 'sha256:5b258851b62f9eb02cae71cee0a1bdc3bce0c7c014e46a8dceb407dca9f8663a'}
   - {seq: 5, role: markers, filename: assets/KR3ef061_005.markers.yaml, hash: 'sha256:51abb6d04ef592be02fe5124162cfd0361d0016a180db011bab3d0e938e5fef0'}
@@ -1079,7 +1079,7 @@ table_of_contents:
   label: 第一百證傷寒死候歌
   type: section
   level: 2
-hash: sha256:06165df5d49b61fadb91d5b53306f1eb4a68e865b5eba46199b9510d689b920f
+hash: sha256:72f54db11d869c375c89a0c560a500e3ae8c8bfb2387a104cf0deb5dcccced1b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
